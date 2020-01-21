@@ -1,5 +1,7 @@
 <?php
 
-echo "Meu pai do ceu";
+echo "Meu pai DDDDdo ceu";
+
+echo "JAJAJA";
 
 ?>
